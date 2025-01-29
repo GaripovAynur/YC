@@ -1,4 +1,5 @@
 yc config profile list # Какие есть профили
+yc config profile activate agaripov-sa # Переключить профиль
 yc config list # Показывает, какие конфиги есть у пользователя token, cloud-id, folder-id
 
 ##Перед запуском terraform
